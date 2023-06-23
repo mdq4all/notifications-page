@@ -1,0 +1,89 @@
+{
+    "notifications": [
+        {
+           "id": 1 ,
+           "imageProfile" : "mark-webber",
+           "name" : "Mark Webber",
+           "action": "reacted to your recent post",
+           "reactionPost": "My first tournament today!",
+           "reactionImage" : "",
+           "readMessage": false,
+           "timeElapsed": "1m ago",
+           "privateMessage": "",
+           "group": ""
+        },
+        {
+           "id": 2 ,
+           "imageProfile" : "angela-gray",
+           "name" : "Angela Gray",
+           "action": "followed you",
+           "reactionPost": "",
+           "reactionImage" : "",
+           "readMessage": false,
+           "timeElapsed": "5m ago",
+           "privateMessage": "",
+           "group": ""
+        },
+        {
+           "id": 3 ,
+           "imageProfile" : "jacob-thompson",
+           "name" : "Jacob Thompson",
+           "action": "has joined your group",
+           "reactionPost": "",
+           "reactionImage" : "",
+           "readMessage": false,
+           "timeElapsed": "1 day ago",
+           "privateMessage": "",
+           "group": "Chess Club"
+        },
+        {
+           "id": 4 ,
+           "imageProfile" : "rizky-hasanuddin",
+           "name" : "Rizky Hasanuddin",
+           "action": "sent you a private message",
+           "reactionPost": "",
+           "reactionImage" : "",
+           "readMessage": true,
+           "timeElapsed": "5 days ago",
+           "privateMessage": "Hello, thanks for setting up the Chess Club. I've been a memeber for a few weeks now and i'm already having lots of fun and improving my game." ,
+           "group": ""
+        },
+        {
+           "id": 5 ,
+           "imageProfile" : "kimberly-smith",
+           "name" : "Kimberly Smith",
+           "action": "commented on your picture",
+           "reactionPost": "",
+           "reactionImage" : "image-chess",
+           "readMessage": true,
+           "timeElapsed": "1 week ago",
+           "privateMessage": "",
+           "group": ""
+        },
+        {
+           "id": 6 ,
+           "imageProfile" : "nathan-peterson",
+           "name" : "Nathan Peterson",
+           "action": "reacted to your recent post",
+           "reactionPost": "5 end-game strategies to increase your win rate",
+           "reactionImage" : "",
+           "readMessage": true,
+           "timeElapsed": "2 weeks ago",
+           "privateMessage": "",
+           "group": ""
+        },
+        {
+           "id": 7 ,
+           "imageProfile" : "anna-kim",
+           "name" : "Anna Kim",
+           "action": "left the group",
+           "reactionPost": "",
+           "reactionImage" : "",
+           "readMessage": true,
+           "timeElapsed": "2 weeks ago",
+           "privateMessage": "",
+           "group": "Chess Club"
+        }
+    ]
+
+}
